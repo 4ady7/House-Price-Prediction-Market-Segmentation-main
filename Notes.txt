@@ -1,0 +1,2 @@
+KMeans Class Instance = assiging each dataPoint to a cluster 
+silhouette_score() function = makes sure each dataPoint is in the right cluster
